@@ -1,0 +1,5 @@
+--In order to reduce time complexity Positive and Negative words were stored in Positive_words1.csv and Negative_words.csv from Loughran-McDonald_MasterDictionary_1993-2021.
+--Code prints the no. of Urls analysed in the terminal in order to update the process
+--Output file has been updated with the output.
+--In order to check the working of code please do delete all the rows of "Output Data Structure.xlsx - Sheet1.csv" except column name row, and run the code after installing necessary python libraries
+--One can run or view the code from code.py
