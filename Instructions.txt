@@ -1,3 +1,4 @@
+-- linkcapture.py is used to capture all the blog links from the given url and appends to a CSV file i.e inputsheet.csv for further analysis
 --In order to reduce time complexity Positive and Negative words were stored in Positive_words1.csv and Negative_words.csv from Loughran-McDonald_MasterDictionary_1993-2021.
 --Code prints the no. of Urls analysed in the terminal in order to update the process
 --Output file has been updated with the output.
